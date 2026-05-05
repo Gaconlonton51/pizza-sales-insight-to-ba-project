@@ -66,10 +66,11 @@ Customers can add the combo to cart with one click, proceed to checkout, and the
 
 ## 7. Tools Used
 
-- Excel: Pizza sales data analysis
-- Draw.io: Process flow diagram
-- Figma / Balsamiq: Wireframes
-- GitHub: Project documentation
+- My Sql: Used to inspect the dataset structure, convert date and time fields, calculate revenue metrics, group orders by day and hour, and identify best-selling and worst-selling pizzas.
+- Excel: Used for data analysis, pivot tables, dashboard creation, and identifying sales trends.
+- Draw.io: Used to create the process flow diagram for the Golden Hour Combo feature.
+- Figma: Used to create low-fidelity wireframes for the mobile app screens.
+- GitHub: Used to document and present the project as a portfolio repository. 
 
 ---
 
