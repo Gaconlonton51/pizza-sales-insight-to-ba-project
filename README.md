@@ -199,9 +199,15 @@ End
 
 The wireframes below describe the key screens of the Golden Hour Combo feature. These are low-fidelity wireframes used to communicate screen structure and user interactions.
 
+### 13.1 Home Page with Golden Hour Combo Popup
+
 ![Home Page Wireframe](ba-deliverables/home-popup-wireframe.png)
 
+### 13.2 Cart Page
+
 ![Cart Page Wireframe](ba-deliverables/cart-page-wireframe.png)
+
+### 13.3 Checkout Page
 
 ![Checkout Page Wireframe](ba-deliverables/checkout-page-wireframe.png)
 
