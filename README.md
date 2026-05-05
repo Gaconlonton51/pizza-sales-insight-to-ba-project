@@ -193,6 +193,9 @@ Create order confirmation
     ↓
 End
 ```
+Process flow diagram:
+
+![Process Flow Diagram](ba-deliverables/process-flow.png)
 ---
 
 ## 13. Wireframes
@@ -201,15 +204,15 @@ The wireframes below describe the key screens of the Golden Hour Combo feature. 
 
 ### 13.1 Home Page with Golden Hour Combo Popup
 
-[View Home Page Wireframe](ba-deliverables/home-popup-wireframe.png)
+![Home Page Wireframe](ba-deliverables/home-popup-wireframe.png)
 
 ### 13.2 Cart Page
 
-[View Cart Page Wireframe](ba-deliverables/cart-page-wireframe.png)
+![Cart Page Wireframe](ba-deliverables/cart-page-wireframe.png)
 
 ### 13.3 Checkout Page
 
-[View Checkout Page Wireframe](ba-deliverables/checkout-page-wireframe.png)
+![Checkout Page Wireframe](ba-deliverables/checkout-page-wireframe.png)
 
 ---
 
