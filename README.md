@@ -201,15 +201,15 @@ The wireframes below describe the key screens of the Golden Hour Combo feature. 
 
 ### 13.1 Home Page with Golden Hour Combo Popup
 
-![Home Page Wireframe](ba-deliverables/home-popup-wireframe.png)
+[View Home Page Wireframe](ba-deliverables/home-popup-wireframe.png)
 
 ### 13.2 Cart Page
 
-![Cart Page Wireframe](ba-deliverables/cart-page-wireframe.png)
+[View Cart Page Wireframe](ba-deliverables/cart-page-wireframe.png)
 
 ### 13.3 Checkout Page
 
-![Checkout Page Wireframe](ba-deliverables/checkout-page-wireframe.png)
+[View Checkout Page Wireframe](ba-deliverables/checkout-page-wireframe.png)
 
 ---
 
