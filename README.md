@@ -192,7 +192,7 @@ Deduct inventory
 Create order confirmation
     ↓
 End
-
+---
 ---
 
 ## 13. Wireframes
